@@ -1,0 +1,42 @@
+/* navbar button styles  */
+.btn-color-wood {
+  background-color: #b68c5a;
+}
+
+.btn-color-wood:hover {
+  background-color: #6b5234;
+}
+
+/* header banner styles */
+
+.legal-solutions {
+  background-image: url("../images/banner.png");
+}
+
+/* carousel bg styles  */
+
+.legal-solutions,
+.carousel-bg-1,
+.carousel-bg-2,
+.carousel-bg-3 {
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.carousel-bg-1 {
+  background-image: url("../images/slider-1.jpg");
+}
+
+.carousel-bg-2 {
+  background-image: url("../images/slider-2.jpg");
+}
+
+.carousel-bg-3 {
+  background-image: url("../images/slider-3.jpg");
+}
+
+.w-10 {
+  width: 10%;
+}
